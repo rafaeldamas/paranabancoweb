@@ -1,7 +1,7 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Cypress</a>
+    <a href="https://pt-br.reactjs.org/">ParanaBanco</a>
 </h1>
-<p align="center">Testes automatizados com cypress básico</p>
+<p align="center">Testes automatizados web do case técnico</p>
 
 Tabela de conteúdos
 =================
@@ -14,7 +14,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Este é um projeto de estudo do curso de testes automatizados com cypress básico do Walmyr Filho
+Este é um projeto do desafio da ParanaBanco de mapeamento dos elementos apresentados na tela. Cliques nos botões randômicos da tela e clique em todos os edit e delete dentro da tabela
 
 ---
 
