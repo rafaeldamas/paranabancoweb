@@ -9,7 +9,7 @@ Tabela de conteúdos
    * [Sobre](#-Sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
       * [Pré Requisitos](#user-content-pre-requisitos)
-      * [Passo a passo](#user-content-rodando-o-roftware)
+   * [Rodando o Software](#-rodando-o-software)
 <!--te-->
 
 ## 💻 Sobre o projeto
