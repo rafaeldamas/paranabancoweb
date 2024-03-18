@@ -9,7 +9,7 @@ Tabela de conteúdos
    * [Sobre](#-Sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
       * [Pré Requisitos](#user-content-pre-requisitos)
-      * [Passo a passo](#user-content-rodando-o-roftware)
+   * [Rodando o Software](#-rodando-o-software)
 <!--te-->
 
 ## 💻 Sobre o projeto
@@ -42,14 +42,14 @@ ___
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rafaeldamas/cypress-basico-v2
+$ git clone git@github.com:rafaeldamas/paranabancoweb.git
 
 # Instale o cypress
 $ npm install cypress@9.5.1 --save-dev
 
 # Execute a aplicação em desktop
 $ Rode `npm test` (ou `npm t` para a versão curta) para rodar o teste em headless mode. 
-$ Ou, rode `npm run cy:open` para abrir o Cypress no modo interativo. 
+$ Ou, rode `npx cypress open` para abrir o Cypress no modo interativo. 
 
 # Executando a aplicação em mobile
 $ Rode `npm run test:mobile` para rodar o teste em headless mode. 
